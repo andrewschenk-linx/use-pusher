@@ -1,4 +1,4 @@
-import Pusher, { Options } from "pusher-js";
+import Pusher, { Options } from "pusher-js/react-native";
 import { PusherContextValues, PusherProviderProps } from "./types";
 import React, { useEffect, useRef, useState } from "react";
 
